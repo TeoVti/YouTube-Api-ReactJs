@@ -15,9 +15,6 @@
   width: 80%;
   padding-bottom: 50%;
   height: 0;
- /*  */
-}
-.videoo {
   margin-left: 40px;
 }
 .ui-embed iframe {
@@ -30,4 +27,5 @@
 
 .ui-segment {
   margin-right: 100px;
+  margin-left: 20px;
 }

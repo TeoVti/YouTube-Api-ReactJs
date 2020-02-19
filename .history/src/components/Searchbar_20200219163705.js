@@ -31,7 +31,7 @@ class Searchbar extends React.Component {
               type="text"
               value={this.state.term}
             />
-            <button className="bttn">Search</button>
+            <button>Search</button>
           </div>
         </form>
       </div>

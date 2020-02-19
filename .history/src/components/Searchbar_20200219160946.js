@@ -24,14 +24,13 @@ class Searchbar extends React.Component {
         <form onSubmit={this.handleSubmit} className="ui form">
           <div className="field">
             <input
-              className="input-text"
               onChange={this.handleChange}
               placeholder="Search for videos"
               name="video-search"
               type="text"
               value={this.state.term}
             />
-            <button className="bttn">Search</button>
+            <button>Search</button>
           </div>
         </form>
       </div>

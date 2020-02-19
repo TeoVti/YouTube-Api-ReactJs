@@ -1,0 +1,17 @@
+.search-bar {
+  text-align: center;
+  width: 100%;
+  padding: 30px;
+  margin: 40px auto;
+  background: #fff;
+  border-radius: 10px;
+}
+
+.input-text {
+	width: 40%;
+	height: 40px;
+}
+
+.bttn {
+	height: 40px;
+}
